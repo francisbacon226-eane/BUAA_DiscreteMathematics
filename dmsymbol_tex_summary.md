@@ -13,11 +13,13 @@
 ### 二元逻辑运算
 | LaTeX代码 | 渲染效果 | 含义 |
 | :---: | :---: | :---: |
-| `\to` | $\to$ | 蕴含 |
-| `\vee` | $\vee$ | 析取 |
-| `\wedge` | $\wedge$ | 合取 |
+| `\to`或`\rightarrow` | $\to$ | 蕴含 |
+| `\vee`或`\lor` | $\vee$ | 析取 |
+| `\wedge`或`\land` | $\wedge$ | 合取 |
 |`\leftrightarrow`|$\leftrightarrow$|互蕴含|
-|`\olpus`|$\oplus$|异或|
+|`\oplus`|$\oplus$|异或|
+
+**注：**`\lor`(logical or)和`\land`(logical and)分别表示逻辑或和逻辑与，更加形象直观
 
 ### 二元逻辑关系
 | LaTeX代码 | 渲染效果 | 含义 |
