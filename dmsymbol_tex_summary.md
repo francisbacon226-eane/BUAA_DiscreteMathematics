@@ -57,4 +57,5 @@
 |`\in`|$\in$|属于 |
 |`\vdash`|$\vdash$|推出 |
 |`Q^{x}_{t}`|$Q^{x}_{t}$ | 公式Q中的x被t替代|
-
+|`\equiv`|$\equiv$ | 恒等 |
+|`\mathscr{A}`|$\mathscr{A}$ | 花体A，代表公理系统 |
